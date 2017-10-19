@@ -1,0 +1,2 @@
+需要额外安装的扩展：beautifulsoup4、requests
+仅在windows环境下测试过
