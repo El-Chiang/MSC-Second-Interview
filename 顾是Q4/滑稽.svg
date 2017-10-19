@@ -1,0 +1,29 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg"> 
+ <defs>
+  <linearGradient y2="0.64973" x2="0.5" y1="0.23176" x1="0.5" id="svg_8">
+   <stop offset="0" stop-color="rgb(252, 227, 164)"/>
+   <stop offset="1" stop-color="rgb(255, 200, 107)"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect height="402" width="582" y="-1" x="-1" fill="#fff" id="canvas_background"/>
+  <g display="none" id="canvasGrid">
+   <rect height="100%" width="100%" y="0" x="0" stroke-width="0" fill="url(#gridpattern)" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="97.5" rx="97.5" cy="192" cx="277" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="url(#svg_8)" id="svg_5"/>
+  <path d="m192,214.27002l0,0zc95,139 171,-6 171,-6.27002" stroke-width="1.5" stroke="#000000" fill-opacity="0" fill="#ffffff" id="svg_3"/>
+  <path d="m297.32404,148.12231c54.11331,-37.21214 91.71747,-1.69147 91.71747,-1.8437c0,0.03807 1.97766,17.29837 -23.7319,5.09193c-25.70956,-12.20645 -42.41931,-3.69966 -58.69916,9.27774c-16.27985,12.97739 -36.34305,6.08011 -9.28641,-12.52597z" stroke-width="1.5" stroke="#000000" fill="#ffffff" id="svg_7"/>
+  <path d="m164.32404,157.12231c54.11331,-37.21214 91.71747,-1.69147 91.71747,-1.8437c0,0.03807 1.97766,17.29837 -23.7319,5.09193c-25.70956,-12.20645 -42.41931,-3.69966 -58.69916,9.27774c-16.27985,12.97739 -36.34305,6.08011 -9.28641,-12.52597z" stroke-width="1.5" stroke="#000000" fill="#ffffff" id="svg_9"/>
+  <ellipse ry="13" rx="13" cy="160.27" cx="174" stroke-width="1.5" stroke-opacity="null" stroke="#000000" fill="#7f3f00" id="svg_10"/>
+  <ellipse rx="39" cy="169.27" cx="134" stroke-width="1.5" stroke-opacity="null" stroke="#000000" fill="#7f3f00" id="svg_11"/>
+  <ellipse ry="13" rx="13" cy="153.27" cx="311" stroke-width="1.5" stroke-opacity="null" stroke="#000000" fill="#7f3f00" id="svg_12"/>
+  <path d="m357.34537,112.02341c-37.27835,-20.1451 -48.34537,6.71503 -48.34537,6.59416c0,0.12086 9.31961,-7.28357 18.0567,-8.50571c8.73715,-1.22215 16.89178,2.11748 20.38663,3.13367c3.49484,1.01621 47.18048,18.92297 9.90204,-1.22214l0,0.00001z" stroke-width="1.5" stroke-opacity="null" stroke="#000000" fill="#7f3f00" id="svg_14"/>
+  <path d="m231.34537,114.02341c-37.27835,-20.1451 -48.34537,6.71503 -48.34537,6.59417c0,0.12086 9.31961,-7.28357 18.0567,-8.50571c8.73715,-1.22214 16.89178,2.11748 20.38663,3.13368c3.49483,1.0162 47.18048,18.92297 9.90204,-1.22215l0,0.00001z" stroke-width="1.5" stroke-opacity="null" stroke="#000000" fill="#7f3f00" id="svg_15"/>
+  <ellipse ry="10" rx="32.5" cy="186.93" cx="204.33" stroke-width="1.5" stroke-opacity="0" stroke="#000000" fill="#ff4949" id="svg_16"/>
+  <ellipse ry="10" rx="32.5" cy="186.93" cx="347.33" stroke-width="1.5" stroke-opacity="0" stroke="#000000" fill="#ff4949" id="svg_18"/>
+ </g>
+</svg>
