@@ -170,6 +170,7 @@ namespace ParkingLot
 			{
 				if(Math.Abs(target - candidates[i]) < min)
 				{
+					min = Math.Abs(target - candidates[i]);
 					index = i;
 				}
 			}
